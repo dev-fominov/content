@@ -2,7 +2,7 @@
 pinned:
   - a11y/chto-takoe-a11y
   - recipes/progress
-  - js/how-the-browser-creates-pages
+  - tools/how-the-browser-creates-pages
 ready:
   - a11y/screenreaders
   - a11y/aria-intro
@@ -36,14 +36,14 @@ ready:
   - js/function
   - js/function-context
   - js/infinite-scroll
-  - js/oop
+  - tools/oop
   - js/async-in-js
   - js/deal-with-forms
-  - js/how-the-browser-creates-pages
-  - js/how-to-test-and-why
+  - tools/how-the-browser-creates-pages
+  - tools/how-to-test-and-why
   - js/execution-order
   - js/closures
-  - js/clean-architecture
+  - tools/clean-architecture
   - tools/agile
   - tools/markdown
   - tools/network
@@ -60,11 +60,11 @@ ready:
 active:
   - a11y/chto-takoe-a11y
   - recipes/progress
-  - js/how-the-browser-creates-pages
+  - tools/how-the-browser-creates-pages
   - a11y/aria-intro
   - js/async-in-js
   - js/function
-  - js/how-to-test-and-why
+  - tools/how-to-test-and-why
   - tools/agile
   - tools/network
   - css/attr
@@ -80,7 +80,7 @@ active:
   - tools/gitlab-ci-cd
   - css/position
   - recipes/snow
-  - js/clean-architecture
+  - tools/clean-architecture
   - css/box-shadow
   - css/display
   - css/specificity
@@ -100,7 +100,7 @@ active:
   - tools/bundlers
   - html/flow
   - html/article
-  - js/oop
+  - tools/oop
   - js/boolean
   - tools/webpack
   - tools/docker
